@@ -1,0 +1,21 @@
+[2021-04-26 13:45:21] [info] Start Program:
+Path:"C:\\Users\\matei\\Desktop\\CURUSRI\\SEM 2\\OOP\\LAB\\10-11 v2\\x64\\Debug\\10-11 v2.exe"
+Arguments:
+Working directory: "C:\\Users\\matei\\Desktop\\CURUSRI\\SEM 2\\OOP\\LAB\\10-11 v2\\10-11 v2\\"
+Modules: Selected: C:\Users\matei\Desktop\CURUSRI\SEM 2\OOP\LAB\10-11 v2\x64\Debug\10-11 v2.exe Excluded: 
+Sources: Selected: C:\Users\matei\Desktop\CURUSRI\SEM 2\OOP\LAB\10-11 v2\10-11 v2 Excluded: GUI.h GUI.cpp repo.cpp exceptions.h 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\matei\AppData\Local\Temp\ghrg0jfy.l5u 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-04-26 13:45:21] [info] Module: C:\Users\matei\Desktop\CURUSRI\SEM 2\OOP\LAB\10-11 v2\x64\Debug\10-11 v2.exe is selected because it matches selected pattern: C:\Users\matei\Desktop\CURUSRI\SEM 2\OOP\LAB\10-11 v2\x64\Debug\10-11 v2.exe
+[2021-04-26 13:45:23] [info] ----------------------------------------------------
+[2021-04-26 13:45:23] [info] Coverage binary generated in file: C:\Users\matei\AppData\Local\Temp\ghrg0jfy.l5u
+[2021-04-26 13:45:23] [info] ----------------------------------------------------

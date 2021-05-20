@@ -1,0 +1,6 @@
+﻿  GUI.cpp
+  main.cpp
+  readonlygui.cpp
+  10-11 v2.vcxproj -> C:\Users\matei\Desktop\CURUSRI\SEM 2\OOP\LAB\10-11 v2\x64\Debug\10-11 v2.exe
+  windeployqt: "D:/QT/6.0.3/msvc2019_64/bin\windeployqt.exe" --list target --dir "C:\Users\matei\Desktop\CURUSRI\SEM 2\OOP\LAB\10-11 v2\x64\Debug\\" "C:\Users\matei\Desktop\CURUSRI\SEM 2\OOP\LAB\10-11 v2\x64\Debug\10-11 v2.exe"
+EXEC : warning : Cannot find Visual Studio installation directory, VCINSTALLDIR is not set.
