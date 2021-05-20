@@ -9,6 +9,7 @@ An application for managing a schedule.
 ## TheCode
 The code was written in C++ and the GUI have been been created using the Qt library.
 <br>
+<br>
 <img src="https://s3.gifyu.com/images/2021-05-21-00-53-48.gif"></img>
 <br>
 <img src="https://s3.gifyu.com/images/2021-05-21-00-53-27.gif"></img>
