@@ -8,5 +8,5 @@ An application for managing a schedule.
 -Layered Arhitecture<br>
 ## TheCode
 
-<>br
-<img src="https://i.imgur.com/MzdhEcT.jpg"></img>
+<br>
+<img src="https://imgur.com/a/KOipad0"></img>
