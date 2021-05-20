@@ -9,4 +9,4 @@ An application for managing a schedule.
 ## TheCode
 
 <br>
-<img src="https://imgur.com/a/KOipad0"></img>
+<img src="https://imgur.com/a/QocFO4u"></img>
