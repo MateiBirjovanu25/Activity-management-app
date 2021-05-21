@@ -10,5 +10,5 @@ An application for managing a schedule.
 The code was written in C++ and the GUI have been been created using the Qt library.
 <br>
 <br>
-<img src="https://imgur.com/a/QDzSTEB"></img>
+<img src="https://s3.gifyu.com/images/2021-05-21-13-14-4791e0123bd51cd6e5.gif"></img>
 
