@@ -3,7 +3,7 @@
 An application for managing a schedule.
 ## Skills Gained
 -C++ Programming<br>
--Qt graphics library<br>
+-Qt <br>
 -Test-Driven Developement<br>
 -Layered Arhitecture<br>
 ## TheCode
