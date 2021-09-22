@@ -2,7 +2,7 @@
 ## Descriptiom
 An application for managing a schedule.
 ## Skills Gained
--C++ Programming<br>
+-C++ <br>
 -Qt <br>
 -Test-Driven Developement<br>
 -Layered Arhitecture<br>
